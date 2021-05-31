@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hi++there+!;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Chathumal Sangeeth
-- 👀 I’m interested in web dev and QA.
-- 🌱 I’m currently learning full stack web dev, MERN.
+- 👀 I’m interested in Full Stack Web Dev and Mobile App Dev.
+- 🌱 I’m currently learning full stack web dev (MEAN, Angular+Springboot).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
 
