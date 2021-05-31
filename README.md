@@ -9,7 +9,7 @@
 ## 🔥 Streak stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cozyloon)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cozyloon&hide_border=true)](https://git.io/streak-stats)
  
 
 
