@@ -6,13 +6,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyloon&label=Profile%20views&color=129e00&style=plastic" alt="cozyloon" /> </p>
+
+
 ## 🔥 Streak stats
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cozyloon&hide_border=true)](https://git.io/streak-stats)
  
-
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## Languages and Frameworks
 
@@ -63,6 +66,12 @@
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/)
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyloon&show_icons=true&locale=en&layout=compact" alt="cozyloon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cozyloon&show_icons=true&locale=en" alt="cozyloon" /></p>
+
 
 <!---
 cozyloon/cozyloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
