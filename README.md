@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning full stack web dev (MEAN, Angular+Springboot).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
----
 
-### Languages and Frameworks
+
+## Languages and Frameworks
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -22,7 +22,7 @@
 <br/>
 
 
-### Databases
+## Databases
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
@@ -32,7 +32,7 @@
 
 
 
-### Dev Tools
+## Dev Tools
 
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,22 +44,19 @@
 <br/>
 
 
-### Version Controlling
+## Version Controlling
 
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <br/>
 <br/>
 
 
-### Connect with me
+## Connect With Me
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
-[<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>]()
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/)
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
 
-
----
 <!---
 cozyloon/cozyloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
