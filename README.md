@@ -1,12 +1,10 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Chathumal Sangeeth
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hi++there+!;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
-
 - 👋 Hi, I’m Chathumal Sangeeth
 - 👀 I’m interested in Full Stack Web Dev and Mobile App Dev.
 - 🌱 I’m currently learning full stack web dev (MEAN, Angular+Springboot).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
-
 ---
 
 ### Languages and Frameworks
@@ -19,42 +17,39 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Sass" width="26px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />
+<img align="left" alt="Sass" width="26px" src="https://avatars.githubusercontent.com/u/43116912?s=400&v=4" />
 <br/>
 <br/>
 
----
 
 ### Databases
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
-
+<img align="left" alt="Mongo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" />
 <br/>
 <br/>
 
 
----
 
-### IDES
+### Dev Tools
 
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="Sublime Text" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />
+<img align="left" alt="Netbeans" width="26px" src="http://lh4.ggpht.com/_n21m_8h7U5o/S2NglNus1LI/AAAAAAAAA50/YnIYubceNEY/s72-c/%5BUNSET%5D.png?imgmax=800" />
+<img align="left" alt="eclips" width="26px" src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" />
+<img align="left" alt="postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
 <br/>
 <br/>
 
----
 
 ### Version Controlling
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <br/>
 <br/>
 
-
----
 
 ### Connect with me
 
