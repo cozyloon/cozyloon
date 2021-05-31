@@ -6,6 +6,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
 
+## 🔥 Streak stats
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cozyloon)](https://git.io/streak-stats)
+ 
+
+
 
 ## Languages and Frameworks
 
