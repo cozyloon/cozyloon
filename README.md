@@ -9,9 +9,11 @@
 - 👀 I’m interested in Full Stack Web Dev and Mobile App Dev.
 - 🌱 I’m currently learning full stack web dev (MEAN, Angular+Springboot).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send a mail to chathumalsangeeth5@gmail.com
+- 📫 How to reach me ... 
 
 
+     [![Linkedin Badge](https://img.shields.io/badge/-chathumal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/)](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/) 
+     [![Gmail Badge](https://img.shields.io/badge/-chathumalsangeeth5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chathumalsangeeth5@gmail.com)](mailto:chathumalsangeeth5@gmail.com)
 
 ## 🔥 Streak Stats
 
@@ -30,7 +32,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cozyloon&label=Profile%20views&color=0e75b6&style=flat" alt="cozyloon" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cozyloon" alt="cozyloon" /></a> </p>  -->
-<img align="right" alt="cat" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="cat" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 ## Languages and Frameworks
 
