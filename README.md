@@ -98,7 +98,7 @@
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="" width="350" />](https://open.spotify.com/user/31jqyd3nluuysnspt7bjcrr4plxi)
  -->
  
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="chathumal-sangeeth-3a2966173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/chathumal-sangeeth-3a2966173?trk=profile-badge">Chathumal Sangeeth</a></div>
+
               
 <!---
 cozyloon/cozyloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
