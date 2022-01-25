@@ -94,9 +94,7 @@
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31jqyd3nluuysnspt7bjcrr4plxi)
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="" width="350" />](https://open.spotify.com/user/31jqyd3nluuysnspt7bjcrr4plxi)
- -->
+
  
 
               
