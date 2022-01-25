@@ -24,7 +24,7 @@
  
 <p align="center">
   <a>
-    <img height="150" width="120" src="WEBP/left.webp">
+    <img height="150" width="120" src="https://raw.githubusercontent.com/cozyloon/JayantGoel001/master/WEBP/left.webp">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cozyloon&theme=default&hide_border=true"/>
     <img height="150" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
