@@ -96,7 +96,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://raw.githubusercontent.com/cozyloon/JayantGoel001/master/github-contribution-grid-snake.svg">
+    <img align="center" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/github-contribution-grid-snake.svg">
   </a>
  </p>
   
