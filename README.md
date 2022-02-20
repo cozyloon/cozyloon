@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img height="100" width="2000" src="footer.webp">
+  <img height="150" width="2000" src="footer.webp">
 </p>
 
 <!---
