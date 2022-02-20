@@ -81,6 +81,14 @@
 <br/>
 <br/>
 
+---
+
+### OS
+
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
+
+----
 
 ### Connect With Me
 
