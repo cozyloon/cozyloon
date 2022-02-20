@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 🤫👇 
 
-     [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/Chathumal-Sangeeth/)
+     [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/Chathumal-Sangeeth/100009185017380/)
      [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/)
      [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chathumalsangeeth5@gmail.com)](mailto:chathumalsangeeth5@gmail.com)
      [![GitHub iampawan](https://img.shields.io/github/followers/cozyloon?label=follow&style=social)](https://github.com/cozyloon)
