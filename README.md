@@ -6,8 +6,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Chathumal Sangeeth <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+my+GitHub+Profile+!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Chathumal Sangeeth
-- 👀 I’m interested in Full Stack Web Dev and Mobile App Dev.
-- 🌱 I’m currently learning full stack web dev (MEAN, Angular+Springboot).
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 🤫👇 
 
