@@ -96,7 +96,7 @@
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/) -->
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chathumal-sangeeth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathumal-sangeeth/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chathumal sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chathumal sangeeth" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/chathumal-sangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chathumal sangeeth" height="30" width="40" /></a>
 <a href="https://medium.com/@chathumalsangeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathumalsangeeth" height="30" width="40" /></a>
 ---
 
