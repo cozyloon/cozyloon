@@ -107,6 +107,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Linux Command Line Basics](https://medium.com/@chathumalsangeeth/getting-started-with-linux-command-line-basics-f88d06b6cd3f?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :headphones: Spotify Playing
