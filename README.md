@@ -112,6 +112,7 @@
 
 ### Use my maven artifacts here 
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
+<a href='https://mvnrepository.com/artifact/io.github.cozyloon/lets-core' target="_blank"><img alt='github' src='https://img.shields.io/badge/Lets_Core-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 
 ## :headphones: Spotify Playing
 
