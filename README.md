@@ -89,10 +89,9 @@
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
 
 ### Use my maven artifacts here 
-[https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white]
+<a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 
 ### Connect with ME
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon.lets/lets.svg?label=Maven%20Central)](https://search.maven.org/search?q=%22io.github.cozyloon%22)
 <!-- [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/) -->
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
