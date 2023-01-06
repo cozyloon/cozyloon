@@ -88,8 +88,7 @@
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
 
-### Use my maven artifacts here 
-<a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
+
 
 ### Connect with ME
 <!-- [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
@@ -110,6 +109,9 @@
 - [How to Publish Github package with Maven Java](https://medium.com/@chathumalsangeeth/how-to-publish-github-package-with-maven-java-ac0b8912a07e?source=rss-ab15a5435769------2)
 - [Getting Started with Linux Command Line Basics](https://medium.com/@chathumalsangeeth/getting-started-with-linux-command-line-basics-f88d06b6cd3f?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Use my maven artifacts here 
+<a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 
 ## :headphones: Spotify Playing
 
