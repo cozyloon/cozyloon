@@ -91,7 +91,7 @@
 
 
 ### Connect with ME
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon.lets/lets.svg?label=Maven%20Central)]([https://search.maven.org/search?q=g:%22io.github.cozyloon.lets%22%20AND%20a:%22lets%22](https://search.maven.org/search?q=%22io.github.cozyloon%22))
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon.lets/lets.svg?label=Maven%20Central)]([https://search.maven.org/search?q=%22io.github.cozyloon%22](https://search.maven.org/search?q=%22io.github.cozyloon%22))
 <!-- [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/) -->
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
