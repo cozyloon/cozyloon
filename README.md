@@ -110,7 +110,7 @@
 - [Getting Started with Linux Command Line Basics](https://medium.com/@chathumalsangeeth/getting-started-with-linux-command-line-basics-f88d06b6cd3f?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Use my maven artifacts here 
+### My MAVEN artifacts 
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/lets-core' target="_blank"><img alt='github' src='https://img.shields.io/badge/Lets_Core-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 
