@@ -88,7 +88,8 @@
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
 
-
+### Use my maven artifacts here 
+[https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=EzConfig&logoColor=white](https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig)
 
 ### Connect with ME
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon.lets/lets.svg?label=Maven%20Central)](https://search.maven.org/search?q=%22io.github.cozyloon%22)
