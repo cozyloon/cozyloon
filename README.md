@@ -106,6 +106,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to configure Allure Report in Jenkins](https://medium.com/@chathumalsangeeth/how-to-configure-allure-report-in-jenkins-e497917ad09b?source=rss-ab15a5435769------2)
 - [How to configure HTML Report in Jenkins &lpar;CSS issue Fixed&rpar;](https://medium.com/@chathumalsangeeth/how-to-configure-html-report-in-jenkins-css-issue-fixed-a94251dd17c2?source=rss-ab15a5435769------2)
 - [How to Publish Github package with Maven Java](https://medium.com/@chathumalsangeeth/how-to-publish-github-package-with-maven-java-ac0b8912a07e?source=rss-ab15a5435769------2)
 - [Getting Started with Linux Command Line Basics](https://medium.com/@chathumalsangeeth/getting-started-with-linux-command-line-basics-f88d06b6cd3f?source=rss-ab15a5435769------2)
