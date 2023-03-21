@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement Screen Recorder utility for your Selenium execution](https://medium.com/@chathumalsangeeth/how-to-implement-screen-recorder-utility-for-your-selenium-execution-7aadcb94f041?source=rss-ab15a5435769------2)
 - [How to implement the TestNG retry mechanism for failed test cases](https://medium.com/@chathumalsangeeth/how-to-implement-the-testng-retry-mechanism-for-failed-test-cases-e4f600e6dc1d?source=rss-ab15a5435769------2)
 - [How to improve the speed of your Selenium test execution by disabling images on Chrome or Firefox.](https://medium.com/@chathumalsangeeth/how-to-improve-the-speed-of-your-selenium-test-execution-by-disabling-images-on-chrome-or-firefox-167f18975a8a?source=rss-ab15a5435769------2)
 - [What is Testing Daily?](https://medium.com/@chathumalsangeeth/what-is-testing-daily-6e40e7379905?source=rss-ab15a5435769------2)
 - [How to configure Allure Report in Jenkins](https://medium.com/@chathumalsangeeth/how-to-configure-allure-report-in-jenkins-e497917ad09b?source=rss-ab15a5435769------2)
+- [How to configure HTML Report in Jenkins &lpar;CSS issue Fixed&rpar;](https://medium.com/@chathumalsangeeth/how-to-configure-html-report-in-jenkins-css-issue-fixed-a94251dd17c2?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
