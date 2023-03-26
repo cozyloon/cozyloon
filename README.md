@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Custom RestAssured Wrapper for Your API Automation Needs](https://medium.com/@chathumalsangeeth/creating-a-custom-restassured-wrapper-for-your-api-automation-needs-96329519379a?source=rss-ab15a5435769------2)
 - [Managing Java Application Configuration with EzConfig: A Simple and Convenient Solution](https://medium.com/@chathumalsangeeth/managing-java-application-configuration-with-ezconfig-a-simple-and-convenient-solution-f28b646217eb?source=rss-ab15a5435769------2)
 - [Discover these amazing plugins and resources that every tester should know about](https://medium.com/@chathumalsangeeth/discover-these-amazing-plugins-and-resources-that-every-tester-should-know-about-896b80395086?source=rss-ab15a5435769------2)
 - [How to implement Screen Recorder utility for your Selenium execution](https://medium.com/@chathumalsangeeth/how-to-implement-screen-recorder-utility-for-your-selenium-execution-8ea3db64c2a5?source=rss-ab15a5435769------2)
 - [How to implement the TestNG retry mechanism for failed test cases](https://medium.com/@chathumalsangeeth/how-to-implement-the-testng-retry-mechanism-for-failed-test-cases-e4f600e6dc1d?source=rss-ab15a5435769------2)
-- [How to improve the speed of your Selenium test execution by disabling images on Chrome or Firefox.](https://medium.com/@chathumalsangeeth/how-to-improve-the-speed-of-your-selenium-test-execution-by-disabling-images-on-chrome-or-firefox-167f18975a8a?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
