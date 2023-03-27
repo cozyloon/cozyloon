@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Custom Selenium Framework Wrapper: Simplifying Test Automation](https://medium.com/@chathumalsangeeth/building-a-custom-selenium-framework-wrapper-simplifying-test-automation-36de40263e68?source=rss-ab15a5435769------2)
 - [Automating OCR Testing for Web Applications with Tesseract and Selenium in Java](https://medium.com/@chathumalsangeeth/automating-ocr-testing-for-web-applications-with-tesseract-and-selenium-in-java-1f6954dc23da?source=rss-ab15a5435769------2)
 - [LocalTunnel: Securely Expose Your Locally Hosted Web Server to the Internet](https://medium.com/@chathumalsangeeth/localtunnel-securely-expose-your-locally-hosted-web-server-to-the-internet-b9e071de0d59?source=rss-ab15a5435769------2)
 - [Creating a Custom RestAssured Wrapper for Your API Automation Needs](https://medium.com/@chathumalsangeeth/creating-a-custom-restassured-wrapper-for-your-api-automation-needs-96329519379a?source=rss-ab15a5435769------2)
 - [Managing Java Application Configuration with EzConfig: A Simple and Convenient Solution](https://medium.com/@chathumalsangeeth/managing-java-application-configuration-with-ezconfig-a-simple-and-convenient-solution-f28b646217eb?source=rss-ab15a5435769------2)
-- [Discover these amazing plugins and resources that every tester should know about](https://medium.com/@chathumalsangeeth/discover-these-amazing-plugins-and-resources-that-every-tester-should-know-about-896b80395086?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
