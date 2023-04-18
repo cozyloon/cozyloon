@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortlessly Create Java POJO Classes for API Automation with Java Lombok Maven Dependency](https://medium.com/@chathumalsangeeth/effortlessly-create-java-pojo-classes-for-api-automation-with-java-lombok-maven-dependency-d7ddbd6d5b3b?source=rss-ab15a5435769------2)
 - [Essential Topics to Remember for a Successful Intern/Associate QA Interview](https://medium.com/@chathumalsangeeth/essential-topics-to-remember-for-a-successful-intern-associate-qa-interview-89fe6aa5313a?source=rss-ab15a5435769------2)
 - [Selenium vs Selenide: Which Is the Better Choice for Automated Testing?](https://medium.com/@chathumalsangeeth/selenium-vs-selenide-which-is-the-better-choice-for-automated-testing-5b4c16caf5a3?source=rss-ab15a5435769------2)
 - [Handling BasicAuthentication Popups with Selenium in Java](https://medium.com/@chathumalsangeeth/handling-basicauthentication-popups-with-selenium-in-java-d39bc4da88fa?source=rss-ab15a5435769------2)
 - [Building a Custom Selenium Framework Wrapper: Simplifying Test Automation](https://medium.com/@chathumalsangeeth/building-a-custom-selenium-framework-wrapper-simplifying-test-automation-36de40263e68?source=rss-ab15a5435769------2)
-- [Automating OCR Testing for Web Applications with Tesseract and Selenium in Java](https://medium.com/@chathumalsangeeth/automating-ocr-testing-for-web-applications-with-tesseract-and-selenium-in-java-1f6954dc23da?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
