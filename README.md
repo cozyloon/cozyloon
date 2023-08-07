@@ -33,7 +33,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cozyloon&label=Profile%20views&color=0e75b6&style=flat" alt="cozyloon" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cozyloon" alt="cozyloon" /></a> </p>  -->
-<img align="right" alt="cat" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="octa cat" width="350" src="octa cat.gif">
 
 ### Languages and Frameworks
 
