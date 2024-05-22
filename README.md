@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Produce Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-produce-kafka-messages-using-java-a9fca16fa28a?source=rss-ab15a5435769------2)
 - [Useful Jenkins Plugins for your QA automation suite.](https://medium.com/@chathumalsangeeth/useful-jenkins-plugins-for-your-qa-automation-suite-6fffe0643a22?source=rss-ab15a5435769------2)
 - [Fillo - Java Excel Library](https://medium.com/@chathumalsangeeth/fillo-java-excel-library-af4f213aa4b6?source=rss-ab15a5435769------2)
 - [CSV File Parsing Made Easy with OpenCSV in Java](https://medium.com/@chathumalsangeeth/csv-file-parsing-made-easy-with-opencsv-in-java-c0b73fdf9ccf?source=rss-ab15a5435769------2)
 - [Effortlessly Create Java POJO Classes for API Automation with Java Lombok Maven Dependency](https://medium.com/@chathumalsangeeth/effortlessly-create-java-pojo-classes-for-api-automation-with-java-lombok-maven-dependency-d7ddbd6d5b3b?source=rss-ab15a5435769------2)
-- [Essential Topics to Remember for a Successful Intern/Associate QA Interview](https://medium.com/@chathumalsangeeth/essential-topics-to-remember-for-a-successful-intern-associate-qa-interview-89fe6aa5313a?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
