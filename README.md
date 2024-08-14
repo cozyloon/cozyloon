@@ -106,7 +106,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect internal network that uses a VPN with Sauce Labs on Windows!](https://medium.com/@chathumalsangeeth/how-to-connect-internal-network-that-uses-a-vpn-with-sauce-labs-on-windows-923071fac609?source=rss-ab15a5435769------2)
+- [How to connect an internal network that uses a VPN with Sauce Labs on Windows!](https://medium.com/@chathumalsangeeth/how-to-connect-internal-network-that-uses-a-vpn-with-sauce-labs-on-windows-923071fac609?source=rss-ab15a5435769------2)
 - [How to Consume Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-consume-kafka-messages-using-java-3337824b3f3e?source=rss-ab15a5435769------2)
 - [ZEROCELL - Excel Reading using Java.](https://medium.com/@chathumalsangeeth/zerocell-excel-reading-using-java-6a7a43712dc6?source=rss-ab15a5435769------2)
 - [How to Produce Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-produce-kafka-messages-using-java-a9fca16fa28a?source=rss-ab15a5435769------2)
