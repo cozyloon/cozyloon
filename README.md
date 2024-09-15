@@ -106,11 +106,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publish your own NPM CLI package &lpar;Executable&rpar;](https://medium.com/@chathumalsangeeth/publish-your-own-npm-cli-package-b1e0ad70d745?source=rss-ab15a5435769------2)
 - [Banner.txt — How to generate and add your banner to your JAVA project](https://medium.com/@chathumalsangeeth/banner-txt-how-to-generate-and-add-your-banner-to-your-java-project-9ca4f82704a3?source=rss-ab15a5435769------2)
 - [How to connect an internal network that uses a VPN with Sauce Labs on Windows!](https://medium.com/@chathumalsangeeth/how-to-connect-internal-network-that-uses-a-vpn-with-sauce-labs-on-windows-923071fac609?source=rss-ab15a5435769------2)
 - [How to Consume Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-consume-kafka-messages-using-java-3337824b3f3e?source=rss-ab15a5435769------2)
 - [ZEROCELL - Excel Reading using Java.](https://medium.com/@chathumalsangeeth/zerocell-excel-reading-using-java-6a7a43712dc6?source=rss-ab15a5435769------2)
-- [How to Produce Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-produce-kafka-messages-using-java-a9fca16fa28a?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN artifacts 
