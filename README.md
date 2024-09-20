@@ -114,6 +114,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### My MAVEN/NPM artifacts 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/ezconfig.svg)](https://search.maven.org/artifact/io.github.cozyloon/ezconfig)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/lets-core.svg)](https://search.maven.org/artifact/io.github.cozyloon/lets-core)
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/lets-core' target="_blank"><img alt='github' src='https://img.shields.io/badge/Lets_Core-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 [![npm version](https://badge.fury.io/js/friendly-reminder.svg)](https://www.npmjs.com/package/friendly-reminder)
