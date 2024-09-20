@@ -35,7 +35,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cozyloon" alt="cozyloon" /></a> </p>  -->
 <img align="right" alt="octa cat" width="350" src="octa cat.gif">
 
-### Languages and Frameworks
+## Languages and Frameworks
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -51,7 +51,7 @@
 
 
 
-### Databases
+## Databases
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
@@ -75,7 +75,7 @@
 
 
 
-### Version Controlling
+## Version Controlling
 
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <br/>
@@ -83,14 +83,14 @@
 
 
 
-### OS
+## OS
 
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
 
 
 
-### Connect with ME
+## Connect with ME
 <!-- [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/people/Chathumal-Sangeeth/100009185017380/)
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/chathumal-sangeeth-3a2966173/) -->
 [<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://cozyloon.github.io/stream-radio/)
@@ -113,7 +113,7 @@
 - [How to Consume Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-consume-kafka-messages-using-java-3337824b3f3e?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
-### My MAVEN/NPM artifacts 
+## My MAVEN/NPM artifacts 
 EzConfig  
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/ezconfig.svg)](https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig)  
 
