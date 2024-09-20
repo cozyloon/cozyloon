@@ -121,7 +121,8 @@ Lets_Core
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/lets-core.svg?label=Lets_Core)](https://search.maven.org/artifact/io.github.cozyloon/lets-core)  
 
 friendly-reminder  
-[![npm version](https://badge.fury.io/js/friendly-reminder.svg?label=friendly-reminder)](https://www.npmjs.com/package/friendly-reminder)
+[![npm version](https://img.shields.io/npm/v/friendly-reminder.svg?label=friendly-reminder)](https://www.npmjs.com/package/friendly-reminder)
+
 
 
 ## :headphones: Spotify Playing
