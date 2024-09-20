@@ -113,9 +113,11 @@
 - [How to Consume Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-consume-kafka-messages-using-java-3337824b3f3e?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
-### My MAVEN artifacts 
+### My MAVEN/NPM artifacts 
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig' target="_blank"><img alt='github' src='https://img.shields.io/badge/EzConfig-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
 <a href='https://mvnrepository.com/artifact/io.github.cozyloon/lets-core' target="_blank"><img alt='github' src='https://img.shields.io/badge/Lets_Core-100000?style=plastic&logo=github&logoColor=FFFEFE&labelColor=121211&color=818183'/></a>
+[![npm version](https://badge.fury.io/js/friendly-reminder.svg)](https://www.npmjs.com/package/friendly-reminder)
+
 
 ## :headphones: Spotify Playing
 
