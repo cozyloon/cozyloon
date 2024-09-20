@@ -19,9 +19,7 @@
 ## My MAVEN/NPM artifacts 
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/ezconfig.svg?label=EzConfig)](https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig)
-
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/lets-core.svg?label=Lets_Core)](https://mvnrepository.com/artifact/io.github.cozyloon/lets-core)
-
 [![npm version](https://img.shields.io/npm/v/friendly-reminder.svg?label=friendly-reminder&color=brightgreen)](https://www.npmjs.com/package/friendly-reminder)
 
 
