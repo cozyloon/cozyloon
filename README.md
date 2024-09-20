@@ -16,6 +16,16 @@
      [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chathumalsangeeth5@gmail.com)](mailto:chathumalsangeeth5@gmail.com)
      [![GitHub iampawan](https://img.shields.io/github/followers/cozyloon?label=follow&style=social)](https://github.com/cozyloon)
 
+## My MAVEN/NPM artifacts 
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/ezconfig.svg?label=EzConfig)](https://search.maven.org/artifact/io.github.cozyloon/ezconfig)  
+
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/lets-core.svg?label=Lets_Core)](https://search.maven.org/artifact/io.github.cozyloon/lets-core)  
+
+[![npm version](https://img.shields.io/npm/v/friendly-reminder.svg?label=friendly-reminder&color=brightgreen)](https://www.npmjs.com/package/friendly-reminder)
+
+
 ## 🔥 Streak Stats
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=cozyloon&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/cozyloon)
@@ -112,16 +122,6 @@
 - [How to connect an internal network that uses a VPN with Sauce Labs on Windows!](https://medium.com/@chathumalsangeeth/how-to-connect-internal-network-that-uses-a-vpn-with-sauce-labs-on-windows-923071fac609?source=rss-ab15a5435769------2)
 - [How to Consume Kafka messages using Java?](https://medium.com/@chathumalsangeeth/how-to-consume-kafka-messages-using-java-3337824b3f3e?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
-
-## My MAVEN/NPM artifacts 
-
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/ezconfig.svg?label=EzConfig)](https://search.maven.org/artifact/io.github.cozyloon/ezconfig)  
-
-
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.cozyloon/lets-core.svg?label=Lets_Core)](https://search.maven.org/artifact/io.github.cozyloon/lets-core)  
-
-[![npm version](https://img.shields.io/npm/v/friendly-reminder.svg?label=friendly-reminder&color=brightgreen)](https://www.npmjs.com/package/friendly-reminder)
-
 
 
 
