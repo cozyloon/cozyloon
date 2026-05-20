@@ -113,11 +113,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Core Java Programs](https://medium.com/@chathumalsangeeth/core-java-programs-5410dee578ff?source=rss-ab15a5435769------2)
 - [Mobilewright -Mobile Automation like Playwright](https://medium.com/@chathumalsangeeth/mobilewright-mobile-automation-using-playwright-syntax-d34eb11799bd?source=rss-ab15a5435769------2)
 - [Saving and Reusing Auth Session in Playwright](https://medium.com/@chathumalsangeeth/saving-and-reusing-auth-session-in-playwright-d96082374532?source=rss-ab15a5435769------2)
 - [Configuring multiple environments in Playwright JS with cross-env and dot-env package](https://medium.com/@chathumalsangeeth/configuring-multiple-environments-in-playwright-js-with-cross-env-and-dot-env-package-d1339975ce78?source=rss-ab15a5435769------2)
 - [Publish your own NPM module package &lpar;Library&rpar;](https://medium.com/@chathumalsangeeth/publish-your-own-npm-module-package-library-1a71e6495728?source=rss-ab15a5435769------2)
-- [Publish your own NPM CLI package &lpar;Executable&rpar;](https://medium.com/@chathumalsangeeth/publish-your-own-npm-cli-package-b1e0ad70d745?source=rss-ab15a5435769------2)
 <!-- BLOG-POST-LIST:END -->
 
 
